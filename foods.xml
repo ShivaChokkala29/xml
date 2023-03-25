@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+  <food>
+    <name>Pizza</name>
+    <category>Italian</category>
+    <description>Flatbread topped with tomato sauce and cheese.</description>
+    <price>9.99</price>
+  </food>
+  <food>
+    <name>Sushi</name>
+    <category>Japanese</category>
+    <description>Rice rolls filled with fish and vegetables.</description>
+    <price>14.99</price>
+  </food>
+  <food>
+    <name>Taco</name>
+    <category>Mexican</category>
+    <description>Soft or hard tortilla filled with meat, cheese, and vegetables.</description>
+    <price>6.99</price>
+  </food>
+</foods>

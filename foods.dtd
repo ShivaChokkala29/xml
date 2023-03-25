@@ -1,0 +1,9 @@
+<!DOCTYPE foods [
+  <!ELEMENT foods (food+)>
+  <!ELEMENT food (name, category, description, price)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT category (#PCDATA)>
+  <!ELEMENT description (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+  <!ATTLIST food id ID #IMPLIED>
+]>
